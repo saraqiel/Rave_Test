@@ -34,6 +34,7 @@ namespace Rave_Test
                                              ;
                Console.WriteLine("Hello World!");
                Console.WriteLine(instructions);
+               Console.WriteLine(branching_instructions);
                Console.ReadLine();
           }
      }
