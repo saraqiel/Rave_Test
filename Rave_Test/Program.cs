@@ -24,7 +24,7 @@ namespace Rave_Test
                                      "9. Enter your Github credentials \n" +
                                      "6. Verify your projects been published by navigating to GitHub and viewing your projects \n" +
                                      "FINITO!";
-               string cloning_instructions = "For official instructions from MS go here: \n" +
+               string branching_instructions = "For official instructions from MS go here: \n" +
                                              "Https://www.visualstudio.com/en-us/docs/git/tutorials/branches \n" +
                                              "BRANCHING \n" +
                                              "1. Open Team Explorer and go to Branches \n" +
